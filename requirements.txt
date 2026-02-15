@@ -1,6 +1,6 @@
-aiohttp==3.13.3
-beautifulsoup4==4.14.3
+aiohttp==3.10.10
+beautifulsoup4==4.12.3
 cloudscraper==1.2.71
-requests==2.32.5
-streamlit==1.54.0
-pandas==3.0.0
+requests==2.31.0
+streamlit==1.36.0
+pandas==2.2.2
